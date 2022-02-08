@@ -45,7 +45,7 @@ section .block_censorship .bad_words p {
   margin-left: 15px;
   font-size: 24px;
   font-weight: 600;
-  color: #be2b2b;
+  color: #ee1a1a;
 }
 
 section .block_censorship .input_bad_word {
